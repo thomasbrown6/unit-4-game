@@ -1,0 +1,44 @@
+.crystal-image {
+    width: 250px;
+    height: 250px;
+    padding: 30px;
+  }
+
+body {
+  background: gray;
+}
+
+h1 {
+  font-family: 'Calligraffitti', cursive;
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+}
+
+div {
+  font-size: 20px;
+  font-family: 'Overlock SC', cursive;
+}
+
+#wins, 
+#losses,
+#score {
+  height: 40px;
+  width: 20%;
+  background: darkgray;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 15px;
+  
+}
+
+#score {
+  width: 5%;
+}
+
+
+.wrapper {
+  text-align: center;
+}
+
